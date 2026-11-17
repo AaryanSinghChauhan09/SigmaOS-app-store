@@ -3,7 +3,7 @@ name = "SigmaOS-app-store"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "app-store component"
+description = "App store: software manager GUI, search, ratings, one-click install, update notifications"
 upstream = []
 
 [contract]
